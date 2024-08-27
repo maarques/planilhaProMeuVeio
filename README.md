@@ -6,6 +6,10 @@ Um projeto simples em Python para ajudar no controle financeiro, criado especifi
 
 Este projeto foi inspirado pela necessidade de ajudar meu pai a gerenciar melhor suas finanças. A ideia era criar uma ferramenta simples, mas eficaz, que pudesse ser usada por qualquer pessoa, mesmo aquelas com pouca experiência em informática. Meu principal desafio foi formatar os valores para que aparecessem no padrão monetário brasileiro (R$ 0,00).
 
+## Alguns erros
+
+O código tem alguns erros, ele funciona normal, mas aparece mensagens de erro depois de algumas ações dos butões, também aparecem mensagens que não deviam aparecer após entradas válidas
+
 ## Funcionalidades
 
 - Adição, edição e exclusão de gastos.
